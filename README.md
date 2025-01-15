@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate learner and love exploring progr
 - Data analyst
 - Problem Solving
 
-### Languages
+## Languages
 - HTML
 - CSS
 - python
