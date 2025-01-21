@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate learner and love exploring progr
 ## About Me
 - 🌱 I am currently studying programming language development.
 - 💻 I enjoy working on stack projects in my spare time.
-- 📫 How to contact me: Instagram: @qurrohmann_ | 
+- 📫 How to contact me: Instagram: @qurrohmann_ 
 - ⚡ Fun fact: I like playing rubik's cube, fishing, and playing games.
 
 ## My Skills
